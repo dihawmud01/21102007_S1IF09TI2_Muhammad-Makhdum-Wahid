@@ -1,0 +1,4 @@
+#Thu Mar 21 11:47:35 WIB 2024
+base.0=C\:\\Users\\ASUS M413DA\\OneDrive\\Dokumen\\berkas kuliah\\SMT 6\\PPB\\21102007_S1IF09TI2_Muhammad-Makhdum-Wahid\\praktikum_05\\layouting\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
